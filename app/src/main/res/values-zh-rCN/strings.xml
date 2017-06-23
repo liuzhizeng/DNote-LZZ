@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"记事本"</string>
+    <string name="title_activity_list">笔记目录</string>
+    <string name="title_activity_login">登录</string>
+    <string name="prompt_email">邮箱</string>
+    <string name="prompt_password">密码</string>
+    <string name="action_sign_in">登录</string>
+    <string name="action_sign_in_short">登录</string>
+    <string name="confirm_delete">请确认是否删除</string>
+    <string name="delete_alert">删除警告</string>
+    <string name="delete_cancel">取消删除</string>
+    <string name="delete_confirm">确认删除</string>
+    <string name="delete_success">删除成功</string>
+    <string name="error_invalid_email">邮箱地址是非法的</string>
+    <string name="error_invalid_password">密码不符合要求</string>
+    <string name="error_incorrect_password">密码是错误的</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="title_activity_detail">详细</string>
+    <string name="large_text">
+ </string>
+    <string name="action_settings">设置</string>
+    <string name="note_title">笔记名称</string>
+    <string name="note_content">Note content</string>
+    <string name="note_createdat">Note CreatedAt</string>
+    <string name="add_note_success">成功添加笔记</string>
+    <string name="revert">重置</string>
+    <string name="edit_content">编辑内容.</string>
+    <string name="edit_title">编辑标题</string>
+    <string name="edit_note_success">编辑笔记成功</string>
+    <string name="save_success">保存成功.</string>
+    <string name="create_note_success">创建笔记成功</string>
+    <string name="input_new_title">输入新的标题</string>
+    <string name="confirm">确认</string>
+    <string name="log_out">退出登录</string>
+    <string name="register">注册</string>
+    <string name="list_is_empty">目录为空
+    </string>
+</resources>
